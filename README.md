@@ -1,5 +1,7 @@
 # Data_Science_Projects
-A bunch of Machine Learning as well as Exploratory Data Analysis project repository.
+Machine Learning and Exploratory Data Analysis project repository.
+
+### Note - Current progress is on the Nalin branch 
 
 ### Current projects(in progress)- 
 DiabetesDecisionTree...
