@@ -1,10 +1,9 @@
 # Data_Science_Projects
-Machine Learning and Exploratory Data Analysis project repository.
-
-### Note - Current progress is on the Nalin branch 
+A Machine Learning and Exploratory Data Analysis project repository.
 
 ### Current projects(in progress)- 
 DiabetesDecisionTree...
 
+#### Note - Diabetes Decision Tree can be found on the Nalin branch.
 
 
